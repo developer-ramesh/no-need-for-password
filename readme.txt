@@ -134,6 +134,16 @@ No hard dependencies.
 
 == Frequently Asked Questions ==
 
+I am a Web Developer and I do website development. I worked as a Tech Lead and I have trained a team of 20+ web developers.
+
+You can enquire for web design cost or any web design services.
+
+Email - ramesh@capsquery.com
+
+You can contact me on my website for custom support: https://capsquery.com
+
+<a href="https://capsquery.com/" target="__blank"> Visit Our Website </a>
+
 = Does this replace the default WordPress login? =
 No. The default `/wp-login.php` still works unless you disable it separately.
 
